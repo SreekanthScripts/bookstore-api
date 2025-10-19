@@ -221,4 +221,3 @@ mvn spring-boot:run
 
 ---
 
-✅ This README is **complete, GitHub-ready**, and combines **theory, commands, API examples, and database info** all in a single file.
